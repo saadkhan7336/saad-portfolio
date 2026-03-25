@@ -7,7 +7,7 @@ function Home() {
             <div className=" px-16  container  grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
                 <div className="ml-16  content relative md:top-32 md:left-0">
                     <h4 className="text-xl font-medium">Hey There!</h4>
-                    <h1 className="text-4xl font-rubik md:text-5xl font-bold uppercase mt-2">I'm Saad Ahmad Khan</h1>
+                    <h1 className="text-4xl font-rubik md:text-5xl font-bold uppercase mt-2">I'm Sheharyar Anjum</h1>
                     <p className="mt-8 text-base font-mulish text-gray-800  leading-relaxed">
                         I’m specialized in Front-End Development, where my skills encompass creating polished user interfaces through
                         meticulous HTML and CSS work. With a strong command of JavaScript, I bring interactivity to web applications,
